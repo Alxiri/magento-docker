@@ -19,7 +19,7 @@ Git clone
  
 Copiar y pegar el siguiente comando
 
-```bash create-project.sh --project=alxiri --domain=alxiri.local --version=MAGENTO_2_VERSION```
+```bash create-project.sh --project=alxiri --domain=alxiri.local --version=2.3.6-p1```
 
 
 
